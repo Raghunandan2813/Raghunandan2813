@@ -21,22 +21,81 @@
 
 ## 🧠 About Me
 
-```typescript
-const raghunandan = {
-  name: "Raghunandan Kumar",
-  alias: "Raghunandan2813",
-  role: "Full Stack Developer & AI Engineer",
-  focus: ["Agentic AI", "RAG Systems", "LLM Applications", "Web Apps"],
-  stack: {
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:   ["Node.js", "Express", "FastAPI", "Python"],
-    database:  ["MongoDB", "PostgreSQL", "Redis"],
-    ai:        ["LangChain", "LangGraph", "RAG", "GenAI", "MCP"],
-  },
-  currentlyBuilding: "AI-powered tools that actually ship 🚢",
-  funFact: "I treat every AI agent like a new team member — with a clear role & memory.",
-};
+<div align="center">
+
 ```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    ██████╗  █████╗  ██████╗ ██╗  ██╗██╗   ██╗               ║
+║    ██╔══██╗██╔══██╗██╔════╝ ██║  ██║██║   ██║               ║
+║    ██████╔╝███████║██║  ███╗███████║██║   ██║               ║
+║    ██╔══██╗██╔══██║██║   ██║██╔══██║██║   ██║               ║
+║    ██║  ██║██║  ██║╚██████╔╝██║  ██║╚██████╔╝               ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝                ║
+║                                                               ║
+║         Full Stack Developer  &  AI Engineer                  ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+```yaml
+name    : Raghunandan Kumar
+alias   : Raghunandan2813
+base    : India 🇮🇳
+role    : Full Stack + AI Engineer
+vibe    : Ship fast. Think deep.
+```
+
+> 🧩 I build **intelligent full-stack systems** —  
+> where clean UI meets powerful AI backends.  
+> From **RAG pipelines** to **agentic workflows**,  
+> I turn complex AI ideas into real products.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+```python
+while alive:
+    learn("Agentic AI & LangGraph")
+    build("AI-powered SaaS tools")
+    ship("things that actually work")
+    repeat()
+```
+
+| 🔭 Building | Multi-agent AI systems |
+|------------|----------------------|
+| 🌱 Exploring | Advanced RAG & vector search |
+| 🤝 Open to | AI collabs & OSS projects |
+| ⚡ Superpower | LLM + Full Stack fusion |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🌐 FRONTEND    │  ⚙️  BACKEND     │  🤖 AI STACK           │
+│─────────────────│─────────────────│────────────────────────│
+│  React          │  Node.js        │  LangChain             │
+│  Next.js        │  FastAPI        │  LangGraph             │
+│  TypeScript     │  Express        │  RAG Pipelines         │
+│                 │  MongoDB        │  Agentic AI            │
+│                 │                 │  MCP Servers           │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
