@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghunandan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghunandan-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghunandan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghunandan-kumar-730747253/)
 [![GitHub](https://img.shields.io/badge/GitHub-Raghunandan2813-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raghunandan2813)
 [![Profile Views](https://komarev.com/ghpvc/?username=Raghunandan2813&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Raghunandan2813)
 
