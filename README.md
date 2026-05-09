@@ -23,77 +23,60 @@
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    ██████╗  █████╗  ██████╗ ██╗  ██╗██╗   ██╗               ║
-║    ██╔══██╗██╔══██╗██╔════╝ ██║  ██║██║   ██║               ║
-║    ██████╔╝███████║██║  ███╗███████║██║   ██║               ║
-║    ██╔══██╗██╔══██║██║   ██║██╔══██║██║   ██║               ║
-║    ██║  ██║██║  ██║╚██████╔╝██║  ██║╚██████╔╝               ║
-║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝                ║
-║                                                               ║
-║         Full Stack Developer  &  AI Engineer                  ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=800&color=7C6AF7&center=true&vCenter=true&multiline=true&width=600&height=50&lines=%24+whoami+%E2%86%92+Full+Stack+%26+AI+Engineer+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;%24+mission+%E2%86%92+Ship+intelligent+products+that+actually+work+%F0%9F%9A%80" />
 
 </div>
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 👨‍💻 Who Am I?
+### 💡 Who I Am
 
-```yaml
-name    : Raghunandan Kumar
-alias   : Raghunandan2813
-base    : India 🇮🇳
-role    : Full Stack + AI Engineer
-vibe    : Ship fast. Think deep.
+```typescript
+const raghunandan = {
+  name   : "Raghunandan Kumar",
+  role   : "Full Stack + AI Engineer",
+  base   : "India 🇮🇳",
+  vibe   : "Ship fast. Think deep.",
+
+  belief : `Every great product starts
+            with a great idea — and
+            the right AI stack to
+            bring it to life.`,
+};
 ```
-
-> 🧩 I build **intelligent full-stack systems** —  
-> where clean UI meets powerful AI backends.  
-> From **RAG pipelines** to **agentic workflows**,  
-> I turn complex AI ideas into real products.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🎯 Current Focus
+### 🎯 Right Now
 
-```python
-while alive:
-    learn("Agentic AI & LangGraph")
-    build("AI-powered SaaS tools")
-    ship("things that actually work")
-    repeat()
+```yaml
+🔭 building  : LangGraph multi-agent
+               AI systems
+🌱 exploring : Advanced RAG &
+               vector search
+🤝 open to   : AI collabs & OSS
+⚡ superpower: LLMs × Full Stack
 ```
-
-| 🔭 Building | Multi-agent AI systems |
-|------------|----------------------|
-| 🌱 Exploring | Advanced RAG & vector search |
-| 🤝 Open to | AI collabs & OSS projects |
-| ⚡ Superpower | LLM + Full Stack fusion |
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🌐 FRONTEND    │  ⚙️  BACKEND     │  🤖 AI STACK           │
-│─────────────────│─────────────────│────────────────────────│
-│  React          │  Node.js        │  LangChain             │
-│  Next.js        │  FastAPI        │  LangGraph             │
-│  TypeScript     │  Express        │  RAG Pipelines         │
-│                 │  MongoDB        │  Agentic AI            │
-│                 │                 │  MCP Servers           │
-└─────────────────────────────────────────────────────────────┘
-```
+| 🌐 Frontend | ⚙️ Backend | 🗄️ Database | 🤖 AI / LLM |
+|:-----------:|:----------:|:-----------:|:-----------:|
+| React | Node.js | MongoDB | LangChain |
+| Next.js | FastAPI | PostgreSQL | LangGraph |
+| TypeScript | Express | Redis | RAG · GenAI |
+| Tailwind | Python | | MCP Servers |
 
 </div>
 
