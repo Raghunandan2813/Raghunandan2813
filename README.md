@@ -1,189 +1,124 @@
-<div align="center">
+![MasterHead](https://camo.githubusercontent.com/9be76cb515f1dc9a41b835acf9c44cfe9c547e6d2a6a5a8afbdc0527e73d01f6/68747470733a2f2f692e696d6775722e636f6d2f524c6f6a6673742e676966)
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raghunandan%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<h1 align="center">Hi 👋, I'm Raghunandan Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer & AI Engineer from India</h3>
 
-<!-- Typing Animation -->
-<a href="https://github.com/Raghunandan2813">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-powered+full+stack+apps+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+FastAPI+%7C+TypeScript;LangChain+%7C+LangGraph+%7C+RAG+%7C+Agents;Turning+ideas+into+intelligent+products+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghunandan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghunandan-kumar-730747253/)
-[![GitHub](https://img.shields.io/badge/GitHub-Raghunandan2813-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raghunandan2813)
-[![Profile Views](https://komarev.com/ghpvc/?username=Raghunandan2813&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Raghunandan2813)
-
-</div>
-
----
-
-## 🧠 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=800&color=7C6AF7&center=true&vCenter=true&multiline=true&width=600&height=50&lines=%24+whoami+%E2%86%92+Full+Stack+%26+AI+Engineer+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;%24+mission+%E2%86%92+Ship+intelligent+products+that+actually+work+%F0%9F%9A%80" />
-
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Raghunandan2813&label=Profile%20views&color=7c3aed&style=flat" alt="Raghunandan2813" />
+</p>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+- 🔭 I'm currently working on **AI Interview Coach** — an agentic AI system that simulates real interviews with adaptive feedback
 
-### 💡 Who I Am
+- 🌱 I'm currently learning **LangGraph Multi-Agent Workflows, Advanced RAG Architectures & Agentic AI**
 
-```typescript
-const raghunandan = {
-  name   : "Raghunandan Kumar",
-  role   : "Full Stack + AI Engineer",
-  base   : "India 🇮🇳",
-  vibe   : "Ship fast. Think deep.",
+- 🛠️ I also built **Expense Tracker MCP Server** — AI-assisted expense tracking via Model Context Protocol
 
-  belief : `Every great product starts
-            with a great idea — and
-            the right AI stack to
-            bring it to life.`,
-};
-```
+- 💬 Ask me about **MERN Stack, Next.js, FastAPI, LangChain, LangGraph, RAG Pipelines, MCP Servers**
 
-</td>
-<td width="45%" valign="top">
+- 📫 How to reach me: **[linkedin.com/in/raghunandan-kumar-730747253](https://www.linkedin.com/in/raghunandan-kumar-730747253/)**
 
-### 🎯 Right Now
-
-```yaml
-🔭 building  : LangGraph multi-agent
-               AI systems
-🌱 exploring : Advanced RAG &
-               vector search
-🤝 open to   : AI collabs & OSS
-⚡ superpower: LLMs × Full Stack
-```
-
-</td>
-</tr>
-</table>
+- ⚡ Fun fact: **I treat every AI agent like a new team member — with a clear role, memory & purpose 🤖**
 
 <br/>
 
-<div align="center">
-
-| 🌐 Frontend | ⚙️ Backend | 🗄️ Database | 🤖 AI / LLM |
-|:-----------:|:----------:|:-----------:|:-----------:|
-| React | Node.js | MongoDB | LangChain |
-| Next.js | FastAPI | PostgreSQL | LangGraph |
-| TypeScript | Express | Redis | RAG · GenAI |
-| Tailwind | Python | | MCP Servers |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🤖 Project | 💡 Description | 🛠 Stack |
-|:---|:---|:---|
-| **AI Interview Coach** | Personalized mock interviews with AI feedback, scoring, and adaptive questioning | Next.js · FastAPI · LangChain · RAG |
-| **Expense Tracker MCP Server** | Model Context Protocol server for intelligent expense tracking via AI agents | TypeScript · MCP · Node.js · MongoDB |
-
-</div>
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI & Agents
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸%20LangGraph-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raghunandan2813&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunandan2813&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Raghunandan2813&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raghunandan2813&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" width="100%"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghunandan2813&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
-</div>
-
----
-
-## 🧩 What I'm Into Right Now
-
-```
-🔭  Building   →  Agentic AI systems with LangGraph multi-agent workflows
-🌱  Learning   →  Advanced RAG architectures & vector search optimization
-🤝  Open to    →  Collaborating on AI tools & full stack SaaS products
-💬  Ask me     →  MERN, AI agents, RAG pipelines, MCP servers
-```
-
----
-
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/raghunandan-kumar-730747253/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Raghunandan2813" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
 
 <br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<h3 align="left">🛠️ Tech Stack:</h3>
 
-</div>
+**🌐 Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**⚙️ Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**🤖 AI / LLM Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-%237C3AED.svg?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%237C3AED.svg?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Servers-%237C3AED.svg?style=flat-square&logoColor=white)
+
+**🔧 Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+
+<br/>
+
+---
+
+<h3 align="left">🚀 Featured Projects:</h3>
+
+**🤖 [AI Interview Coach](https://github.com/Raghunandan2813)**
+> Agentic AI that simulates technical & HR interviews with real-time adaptive feedback using LangGraph + RAG
+
+**💸 [Expense Tracker MCP Server](https://github.com/Raghunandan2813)**
+> MCP-compatible server enabling AI agents to track, categorize & analyze expenses intelligently
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghunandan2813&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Raghunandan2813" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raghunandan2813&show_icons=true&locale=en&theme=tokyonight" alt="Raghunandan2813" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghunandan2813&theme=tokyonight" alt="Raghunandan2813" />
+</p>
+
+<br/><br/>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raghunandan2813&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
