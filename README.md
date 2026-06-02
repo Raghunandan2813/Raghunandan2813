@@ -81,11 +81,11 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-**🤖 [AI Interview Coach](https://github.com/Raghunandan2813)**
+** [AI Interview Coach](https://github.com/Raghunandan2813)**
 > Agentic AI that simulates technical & HR interviews with real-time adaptive feedback using LangGraph + RAG
 
-**💸 [Expense Tracker MCP Server](https://github.com/Raghunandan2813)**
-> MCP-compatible server enabling AI agents to track, categorize & analyze expenses intelligently
+** [Mindly Ai](https://github.com/Raghunandan2813)**
+> Ai agent that never forget and have cognitive memory.
 
 ---
 
